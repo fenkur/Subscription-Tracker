@@ -8,3 +8,4 @@ Some things I learned:
 - Rate Limiting and Bot Protectiong using Arcjet
 - Global error Handling using middleware integration
 - Email reminders with workflow using Upstash
+- Hashing passwords using Bcrypt
